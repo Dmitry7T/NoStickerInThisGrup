@@ -1,3 +1,3 @@
 class Settings:
-    TOKEN = '7614467834:AAFHP1zfHeciU_3c2vqdZxxBDy4w8CYRcrI'
-    RESTRICTED_USER_ID = 5265478681
+    TOKEN = 'Bot Token'
+    RESTRICTED_USER_ID = User Id
